@@ -13,7 +13,6 @@ circle_radius = 10
 circle_speed = 3
 circle_color = THECOLORS['red2']
 circle_pos = [screen_width//2, circle_radius]
-circle_landed = False
 
 #параметры корзины
 bag_height = 20
